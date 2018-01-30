@@ -1,0 +1,5 @@
+choose day
+choose time
+choose place
+
+notify me/add it to my calendar
